@@ -27,7 +27,8 @@
 
 企业版咨询: **business@nextchat.dev**
 
-<img width="300" src="https://github.com/user-attachments/assets/3daeb7b6-ab63-4542-9141-2e4a12c80601">
+<img width="300" src="https://github.com/user-attachments/assets/bb29a11d-ff75-48a8-b1f8-d2d7238cf987">
+
 
 ## 开始使用
 
@@ -88,7 +89,7 @@ code1,code2,code3
 
 ### `OPENAI_API_KEY` （必填项）
 
-OpanAI 密钥，你在 openai 账户页面申请的 api key，使用英文逗号隔开多个 key，这样可以随机轮询这些 key。
+OpenAI 密钥，你在 openai 账户页面申请的 api key，使用英文逗号隔开多个 key，这样可以随机轮询这些 key。
 
 ### `CODE` （可选）
 
@@ -266,6 +267,13 @@ Stability API密钥
 
 启用MCP（Model Context Protocol）功能
 
+### `SILICONFLOW_API_KEY` (optional)
+
+SiliconFlow API Key.
+
+### `SILICONFLOW_URL` (optional)
+
+SiliconFlow API URL.
 
 ## 开发
 
